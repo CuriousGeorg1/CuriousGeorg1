@@ -2,7 +2,9 @@
 
 ## About me
 
-I'm a second year student in IT engineering. This page has repos for both my own projects and some school projects. It's been assembled to read kind of as a portfolio, wiht the projects I'm mostly proud of pinned to the front page.
+I'm a second year student in IT engineering. This page has repos for both my own projects and some school projects. It's been assembled to read kind of as a portfolio, with the projects I'm mostly proud of pinned to the front page.
+
+## The projects I'm most proud of are pinned below this readme
 
 ## Projects divided by programming language
 
